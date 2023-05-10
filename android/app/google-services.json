@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455070232598",
+    "firebase_url": "https://sore-beta-1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sore-beta-1",
+    "storage_bucket": "sore-beta-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455070232598:android:88d85dc8cb56acf2804537",
+        "android_client_info": {
+          "package_name": "com.soreapp.sore_beta_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455070232598-lqrvpicrfq98vgof37stq9k3n3up9365.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxk3arZbBndV28oUZxeSjPUIHbx3IZbwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455070232598-lqrvpicrfq98vgof37stq9k3n3up9365.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
